@@ -1,0 +1,8 @@
+RecipesEN = 
+{
+  MakeCuredMeat = "Make Cured Meat",
+  MakePemmicanMeat = "Make Pemmican",
+  MakeJarredMeat = "Make Jar of Meat",
+  ReduceMeatLard = "Reduce Pork Fat for Lard",
+  OpenJarOfFoodMeat = "Open Jar of Meat",
+}

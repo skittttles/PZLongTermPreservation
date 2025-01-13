@@ -1,0 +1,4 @@
+Tooltip_EN = 
+{
+  Tooltip_CuredMeat = "Safe to eat. Cook for proper longer term preservation"
+}

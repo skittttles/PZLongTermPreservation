@@ -5,4 +5,5 @@ RecipesEN =
   MakeJarredMeat = "Make Jar of Meat",
   ReduceMeatLard = "Reduce Pork Fat for Lard",
   OpenJarOfFoodMeat = "Open Jar of Meat",
+  CrushSaltRock = "Crush Salt Rocks",
 }

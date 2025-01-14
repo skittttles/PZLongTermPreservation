@@ -1,0 +1,9 @@
+module Skittles
+{
+  model SaltRock
+  {
+    mesh = WorldItems/SaltRock,
+    texture = WorldItems/SaltRock,
+    scale = 0.15,
+  }
+}

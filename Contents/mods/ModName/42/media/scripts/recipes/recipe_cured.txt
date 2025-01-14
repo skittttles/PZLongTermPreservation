@@ -128,4 +128,23 @@ module Skittles
 			
 		}
 	}
+
+  craftRecipe CrushSaltRock
+  {
+    timedAction = Making,
+    Time = 30,
+    Tags = InHandCraft;Cooking,
+    category = Cooking,
+    inputs
+		{
+
+			item 1 tags[MortarPestle] mode:keep,
+			item 2 [Skittles.SaltRock],
+		}
+		outputs
+		{
+			item 1 Base.Salt,
+		}
+  }
+  
 }

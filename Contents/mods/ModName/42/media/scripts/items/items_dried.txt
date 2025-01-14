@@ -349,6 +349,17 @@ module Skittles
 		EatType = candrink,
 	}
 
+	item SaltRock
+	{
+		DisplayName = Salt Rock,
+		DisplayCategory = Material,
+		Type = Normal,
+		Weight = 0.2,
+		Icon=	SaltRock,
+		WorldStaticModel = SaltRock,
+		ToolTip = Tooltip_item_SaltRock,
+	}
+
 
   /* OBSOLETE
   item DriedPork

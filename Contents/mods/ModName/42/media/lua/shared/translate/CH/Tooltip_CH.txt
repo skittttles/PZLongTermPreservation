@@ -1,0 +1,5 @@
+Tooltip_CH =
+{
+Tooltip_CuredMeat = "可以安全食用。烹飪以進行適當的長期保存",
+Tooltip_item_SaltRock = 用研缽和杵碾碎製成鹽",
+}

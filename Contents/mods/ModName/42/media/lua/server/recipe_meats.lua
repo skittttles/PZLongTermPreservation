@@ -1,14 +1,14 @@
 --Only meats above a weight of 0.2
 function TryMeat(sourceItem, result)
   if instanceof(sourceItem, "Food") then
-      return sourceItem:getActualWeight() > 0.2
+      return sourceItem:getActualWeight() > 0.0
   end
   return true
 end
 
 function TryMeatLard(sourceItem, result)
   if instanceof(sourceItem, "Food") then
-      return sourceItem:getActualWeight() > 0.45
+      return sourceItem:getActualWeight() > 0.40
   end
   return true
 end
@@ -16,7 +16,7 @@ end
 --Only meats inbetween a size (think too large to go into a jar)
 function TryMeatCanned(sourceItem, result)
   if instanceof(sourceItem, "Food") then
-      return 0.25 < sourceItem:getActualWeight() < 1
+      return 0.15 < sourceItem:getActualWeight() < 1
   end
   return true
 end

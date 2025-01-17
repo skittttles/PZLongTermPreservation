@@ -146,5 +146,42 @@ module Skittles
 			item 1 Base.Salt,
 		}
   }
+
+  craftRecipe MakeMashedBerry
+  {
+    timedAction = Making,
+    Time = 30,
+    Tags = InHandCraft;Cooking,
+    category = Cooking,
+    inputs
+		{
+
+			item 1 tags[MortarPestle] mode:keep,
+			item 4 [Base.BerryGeneric1;Base.BerryGeneric2;Base.BerryGeneric3;Base.BerryGeneric4;Base.BerryGeneric5;Base.BeautyBerry;Base.BerryBlack;Base.BerryBlue],
+		}
+		outputs
+		{
+			item 1 Skittles.MashedBerries,
+		}
+  }
+
+  craftRecipe MakeJam
+  {
+    timedAction = Making,
+    Time = 100,
+    Tags = InHandCraft;Cooking,
+    category = Cooking,
+    inputs
+		{
+			item 1 [Base.Saucepan] mode:keep,
+      item 1 [Skittles.MashedBerries],
+      item 1 [Base.Sugar;Base.SugarBrown],
+		}
+		outputs
+		{
+			item 1 Base.JamFruit,
+		}
+  }
+
   
 }

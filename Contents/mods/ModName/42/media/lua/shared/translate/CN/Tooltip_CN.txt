@@ -1,5 +1,6 @@
-Tooltip_CH =
+Tooltip_CN = 
 {
-Tooltip_CuredMeat = "可以安全食用。烹飪以進行適當的長期保存",
-Tooltip_item_SaltRock = 用研缽和杵碾碎製成鹽",
+  Tooltip_CuredMeat = "可安全食用。烹饪后可长期保存",
+  Tooltip_item_SaltRock = "用研钵和杵碾碎制成盐",
+  Tooltip_item_MashedBerry = "与糖和煮锅混合制成果酱",
 }

@@ -360,6 +360,25 @@ module Skittles
 		ToolTip = Tooltip_item_SaltRock,
 	}
 
+	item MashedBerries
+	{
+		DisplayName = Mashed Berries,
+		DisplayCategory = Food,
+		Type = Food,
+		Weight = 0.4,
+		Icon = MashedBerry,
+		DaysFresh = 6,
+		DaysTotallyRotten = 10,
+		HungerChange = -30,
+		Calories = 100,
+		Carbohydrates = 15,
+		Lipids = 0,
+		Proteins = 12,
+		CustomEatSound = EatingFruit,
+		WorldStaticModel = MashedBerries,
+		ToolTip = Tooltip_item_MashedBerry,
+	}
+
 
   /* OBSOLETE
   item DriedPork

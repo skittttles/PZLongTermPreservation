@@ -6,4 +6,11 @@ module Skittles
     texture = WorldItems/SaltRock,
     scale = 0.15,
   }
+
+  model MashedBerries
+  {
+    mesh = WorldItems/Poultice,
+    texture = WorldItems/MashedBerry,
+    scale = 0.6,
+  }
 }

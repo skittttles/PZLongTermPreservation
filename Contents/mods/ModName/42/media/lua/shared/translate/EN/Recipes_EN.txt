@@ -1,4 +1,4 @@
-RecipesEN = 
+Recipes_EN = 
 {
   MakeCuredMeat = "Make Cured Meat",
   MakePemmicanMeat = "Make Pemmican",

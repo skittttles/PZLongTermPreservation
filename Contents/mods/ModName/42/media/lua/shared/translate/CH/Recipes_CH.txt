@@ -1,4 +1,4 @@
-RecipesCH =
+Recipes_CH =
 {
 MakeCuredMeat = "製作醃肉",
 MakePemmicanMeat = "製作乾肉餅",

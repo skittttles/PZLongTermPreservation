@@ -1,0 +1,6 @@
+Tooltip_KO = 
+{
+  Tooltip_CuredMeat = "안전하게 먹을 수 있음. 더 오래 보존하려면 요리하세요.",
+  Tooltip_item_SaltRock = "절구와 막자를 사용해 소금을 만드세요.",
+  Tooltip_item_MashedBerry = "냄비에 설탕을 넣어 잼을 만드세요.",
+}

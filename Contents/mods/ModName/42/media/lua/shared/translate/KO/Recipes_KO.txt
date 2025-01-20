@@ -1,0 +1,11 @@
+Recipe_KO = 
+{
+  MakeCuredMeat = "육포 만들기",
+  MakePemmicanMeat = "페미컨 만들기",
+  MakeJarredMeat = "유리병에 고기 넣기",
+  ReduceMeatLard = "돼지 지방을 녹여 라드 만들기",
+  OpenJarOfFoodMeat = "유리병 열기,
+  CrushSaltRock = "소금 바위 부수기",
+  MakeMashedBerry = "으깬 베리 만들기",
+  MakeJam = "으깬 베리로 잼 만들기",
+}

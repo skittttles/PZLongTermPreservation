@@ -1,0 +1,18 @@
+ItemName_KO = 
+{
+  ItemName_Skittles.CuredPork = "훈제 돼지고기",
+  ItemName_Skittles.CuredBeef = "훈제 소고기",
+  ItemName_Skittles.CuredVenison = "훈제 사슴 고기",
+  ItemName_Skittles.CuredFish = "훈제 생선살",
+  ItemName_Skittles.Pemmican = "페미컨",
+  ItemName_Skittles.CannedPork = "유리병 ‹돼지고기›",
+  ItemName_Skittles.CannedPork_Open = "유리병 ‹돼지고기›",
+  ItemName_Skittles.CannedBeef = "유리병 ‹소고기›",
+  ItemName_Skittles.CannedBeef_Open = "유리병 ‹소고기›",
+  ItemName_Skittles.CannedVenison = "유리병 ‹사슴 고기›",
+  ItemName_Skittles.CannedVenison_Open = "유리병 ‹사슴 고기›",
+  ItemName_Skittles.CannedFish = "유리병 ‹생선살›",
+  ItemName_Skittles.CannedFish_Open = "유리병 ‹생선살›",
+  ItemName_Skittles.SaltRock = "소금 바위",
+  ItemName_Skittles.MashedBerries = "으깬 베리",
+}

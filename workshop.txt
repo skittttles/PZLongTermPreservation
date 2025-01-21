@@ -66,6 +66,9 @@ description=Thank you to Tank5168 for the Chinese Traditional translation
 description=Thank you to JiangHao for the Chinese Simplified translation
 description=Thank you to Gabbo990 for the Italian translation
 description=Thank you to Sr. Urso for the Brazilian Portuguese translation
+description=Thank you to for the French translation
+description=Thank you to for the Russian translation
+description=Thank you to for the Korean translation
 description=
 description=[b]Check Out My Other Workshop Mods BELOW![/b] (Click Image)
 description=[url=https://steamcommunity.com/id/Skiiitles/myworkshopfiles/] [img]https://i.imgur.com/j1xK65L.png[/img] [/url]
@@ -73,6 +76,6 @@ description=
 description=[b]B42 Only[/b]
 description=
 description=Currently only Beef, Pork, Venison and Fish can be preserved
-description=Let me know of any bugs / features you want includes this is a proof of concept with more meat types to be added
+description=Let me know of any bugs / features you want includes this is a proof of concept with more meat types to be added
 tags=Build 42;Items;Realistic;QoL
 visibility=public

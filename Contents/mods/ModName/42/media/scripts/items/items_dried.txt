@@ -80,7 +80,7 @@ module Skittles
     OnCooked = OnCookedTest,
 		DaysFresh = 53,
 		DaysTotallyRotten = 60,
-    HungerChange = -80,
+    HungerChange = -80,v
     ThirstChange = 20,
 		Calories = 440,
 		Carbohydrates = 0,

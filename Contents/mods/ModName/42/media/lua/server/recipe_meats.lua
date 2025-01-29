@@ -8,7 +8,7 @@ end
 
 function TryMeatLard(sourceItem, result)
   if instanceof(sourceItem, "Food") then
-      return sourceItem:getActualWeight() > 0.40
+      return sourceItem:getActualWeight() > 0.349
   end
   return true
 end

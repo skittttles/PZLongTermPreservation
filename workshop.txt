@@ -71,6 +71,8 @@ description=Thank you to Serventir for the Russian translation
 description=Thank you to Hx for the Korean translation
 description=Thank you to npk for the Polish translation
 description=Thank you to BayGlitch for the Turkish translation
+description=Thank you to Hegii for the Czech translation
+description=
 description=
 description=[b]Check Out My Other Workshop Mods BELOW![/b] (Click Image)
 description=[url=https://steamcommunity.com/id/Skiiitles/myworkshopfiles/] [img]https://i.imgur.com/j1xK65L.png[/img] [/url]

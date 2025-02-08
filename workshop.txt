@@ -53,7 +53,7 @@ description=Pemmican
 description=Crafted using meat, lard and berries (Any weight)
 description=
 description=Lard
-description=New Recipe "Render Meat" allowing you to turn a piece of meat into lard (Weight > 0.40)
+description=New Recipe "Render Meat" allowing you to turn a piece of meat into lard (Weight > 0.35)
 description=
 description=Fruit Jams
 description=Mash 4 Berries to create a "Mashed Berry" (Need 4 of [b]same[/b] type currently)
@@ -70,6 +70,7 @@ description=Thank you to Kacles  for the French translation
 description=Thank you to Serventir for the Russian translation
 description=Thank you to Hx for the Korean translation
 description=Thank you to npk for the Polish translation
+description=Thank you to BayGlitch for the Turkish translation
 description=
 description=[b]Check Out My Other Workshop Mods BELOW![/b] (Click Image)
 description=[url=https://steamcommunity.com/id/Skiiitles/myworkshopfiles/] [img]https://i.imgur.com/j1xK65L.png[/img] [/url]

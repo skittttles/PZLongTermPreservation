@@ -24,6 +24,7 @@ end
 --Borrowed from the Cut Fillet Code, simply adjusting weight based on item used
 --Ensured consistency when cutting a piece of meat that isnt the standard 0.5 size
 function AdjustStates(craftRecipeData, character)
+--[[
 print("adjusting meat")
 local items = craftRecipeData:getAllConsumedItems();
 local results = craftRecipeData:getAllCreatedItems();
@@ -50,9 +51,11 @@ local results = craftRecipeData:getAllCreatedItems();
     result:setCooked(meat:isCooked());
   end
   end
+  --]]
 end
 
 function AdjustStatesPemmican(craftRecipeData, character)
+  --[[
   print("adjusting meat")
   local items = craftRecipeData:getAllConsumedItems();
   local results = craftRecipeData:getAllCreatedItems();
@@ -79,6 +82,7 @@ function AdjustStatesPemmican(craftRecipeData, character)
       result:setCooked(meat:isCooked());
     end
     end
+    --]]
   end
 
 function OnCookedTest(meatToChange)

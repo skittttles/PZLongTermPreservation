@@ -16,8 +16,8 @@ module Skittles
     category = Cooking,
     inputs
 		{
-			item 1 [Base.Pork;Base.Beef;Base.Venison;Base.FishFillet] flags[InheritFoodAge] mappers[meatType],
-      item 1 [Base.Salt],
+			item 60 [Base.Pork;Base.Beef;Base.Venison;Base.FishFillet] flags[InheritFoodAge] mappers[meatType],
+      item 5 [Base.Salt],
 		}
 		outputs
 		{
@@ -41,9 +41,9 @@ module Skittles
     category = Cooking,
     inputs
     {
-      item 1 [Base.Pork;Base.Beef;Base.Venison],
-      item 1 [Base.Lard],
-      item 2 [Base.BerryGeneric1;Base.BerryGeneric2;Base.BerryGeneric3;Base.BerryGeneric4;Base.BerryGeneric5;Base.BeautyBerry;Base.BerryBlack;Base.BerryBlue],
+      item 40 [Base.Pork;Base.Beef;Base.Venison],
+      item 20 [Base.Lard],
+      item 10 [Base.BerryGeneric1;Base.BerryGeneric2;Base.BerryGeneric3;Base.BerryGeneric4;Base.BerryGeneric5;Base.BeautyBerry;Base.BerryBlack;Base.BerryBlue],
     }
     outputs
     {
@@ -57,12 +57,11 @@ module Skittles
     timedAction = MixingBowl,
     Time = 30,
     Tags = InHandCraft;Cooking,
-    onTest = TryMeatLard,
     category = Cooking,
     inputs
     {
       item 1 tags[DullKnife;SharpKnife;MeatCleaver] mode:keep flags[MayDegradeLight],
-      item 1 [Base.Pork],
+      item 35 [Base.Pork],
       item 1 [Base.Saucepan] mode:keep,
     }
     outputs
@@ -83,7 +82,7 @@ module Skittles
     {
       item 1 [Base.EmptyJar],
       item 1 [Base.JarLid],
-      item 1 [Base.Pork;Base.Beef;Base.Venison;Base.FishFillet] mappers[meatType],
+      item 50 [Base.Pork;Base.Beef;Base.Venison;Base.FishFillet] mappers[meatType],
 			item 2.0 tags[Vinegar],
 			item 1.0 [Base.Salt],
 			item 1 [*],
@@ -113,7 +112,7 @@ module Skittles
     category = Cooking,
 		inputs
 		{
-			item 1 [Skittles.CannedPork;Skittles.CannedBeef;Skittles.CannedVenison;Skittles.CannedFish] flags[AllowRottenItem;InheritFoodAge] mappers[foodType],
+			item 1 [Skittles.CannedPork;Skittles.CannedBeef;Skittles.CannedVenison;Skittles.CannedFish] flags[AllowRottenItem;InheritFoodAge;ItemCount] mappers[foodType],
 		}
 		outputs
 		{
@@ -157,7 +156,7 @@ module Skittles
 		{
 
 			item 1 tags[MortarPestle] mode:keep,
-			item 4 [Base.BerryGeneric1;Base.BerryGeneric2;Base.BerryGeneric3;Base.BerryGeneric4;Base.BerryGeneric5;Base.BeautyBerry;Base.BerryBlack;Base.BerryBlue],
+			item 20 [Base.BerryGeneric1;Base.BerryGeneric2;Base.BerryGeneric3;Base.BerryGeneric4;Base.BerryGeneric5;Base.BeautyBerry;Base.BerryBlack;Base.BerryBlue],
 		}
 		outputs
 		{
@@ -174,8 +173,8 @@ module Skittles
     inputs
 		{
 			item 1 [Base.Saucepan] mode:keep,
-      item 1 [Skittles.MashedBerries],
-      item 1 [Base.Sugar;Base.SugarBrown],
+      item 30 [Skittles.MashedBerries],
+      item 10 [Base.Sugar;Base.SugarBrown],
 		}
 		outputs
 		{
